@@ -1,1 +1,3 @@
-# EDA
+# Exploratory data analysis of Abalone Dataset
+
+The aim is to find out the kind of data and perform all types of exploratory data analysis in order to find the relationship between attributes of the dataset given. Abalones are marine snails that are found along coasts of every continent. The features given in this dataset are Length, Diameter, Height, Whole weight, Shucked weight, Viscera weight, Shell weight and Rings. It has total of 4176 sample rows with the above mentioned 9 columns. We will be performing all kinds of data processing, data cleaning and feature engineering. Along with that, we will be analyzing the effect of variables on each other and their correlation as well as variance on the main target variable.
